@@ -3,6 +3,7 @@
 
 int main()
 {
+	int c = 10;
     printf("Hello World From GitHub - replica \n");
 	printf("Hello World paltasingh dearoo - replica\n");
 	printf("Familiarizing with GIT \n");
